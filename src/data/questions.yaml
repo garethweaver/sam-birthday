@@ -11,9 +11,9 @@
     - value: Jonathan
     - value: Betty
     - value: Sophie
+    - value: Steve
     - value: Jane
       correct: true
-    - value: Steve
 
 - q: What is Sam's least favourite colour?
   a:
@@ -39,7 +39,7 @@
       correct: true
     - value: 'False'
 
-- q: Sam was born on
+- q: Sam was born on...
   a:
     - value: 'Monday'
       correct: true
@@ -54,9 +54,9 @@
     - value: Cool
     - value: Amazing
     - value: Sarcastic
+    - value: Stoic
     - value: Ginger
       correct: true
-    - value: Stoic
 
 - q: Where is she from?
   a:
@@ -85,7 +85,7 @@
     - value: '10'
     - value: none
 
-- q: What is Sam saved in Gareth's phone as
+- q: What is Sam saved in Gareth's phone as...
   a:
     - value: Sam the Ham
     - value: Sam Touch
@@ -95,7 +95,7 @@
     - value: Bam Sell
     - value: Sam Bing
 
-- q: If Sam was an animal she would be ...
+- q: If Sam was an animal she would be...
   a:
     - value: Platypus
       correct: true
@@ -167,7 +167,7 @@
       correct: true
     - value: Tan
 
-- q: Sam is ...
+- q: Sam is...
   a:
     - value: Amazing
       correct: true

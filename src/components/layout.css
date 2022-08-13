@@ -257,7 +257,7 @@ a, button {
 
 .answer-wrap {
   position: relative;
-  height:  360px;
+  height:  400px;
 }
 
 .answer {
@@ -321,4 +321,11 @@ button.answer-btn:last-child {
 
 .incorrect {
   color: #f98d8d;
+}
+
+.Index {
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
