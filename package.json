@@ -6,14 +6,17 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "gatsby": "^4.20.0",
+    "gatsby-plugin-google-fonts": "^1.0.1",
     "gatsby-plugin-image": "^2.20.0",
     "gatsby-plugin-manifest": "^4.20.0",
     "gatsby-plugin-sharp": "^4.20.0",
     "gatsby-source-filesystem": "^4.20.0",
     "gatsby-transformer-sharp": "^4.20.0",
+    "gatsby-transformer-yaml": "^4.20.0",
     "prop-types": "^15.8.1",
     "react": "^18.1.0",
-    "react-dom": "^18.1.0"
+    "react-dom": "^18.1.0",
+    "react-spring": "^9.5.2"
   },
   "devDependencies": {
     "prettier": "^2.7.1"

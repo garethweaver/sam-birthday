@@ -1,0 +1,177 @@
+- q: Sam looks...
+  a:
+    - value: '25'
+    - value: '30'
+      correct: true
+    - value: '35'
+    - value: '60'
+
+- q: What is sam's middle name?
+  a:
+    - value: Jonathan
+    - value: Betty
+    - value: Sophie
+    - value: Jane
+      correct: true
+    - value: Steve
+
+- q: What is Sam's least favourite colour?
+  a:
+    - value: Green
+    - value: Purple
+      correct: true
+    - value: Black
+    - value: Ginger
+
+- q: Where did she go to uni?
+  a:
+    - value: Exeter
+    - value: Cambridge
+    - value: Edinburgh
+    - value: Bristol
+    - value: Loogabaroogah (Loughborough)
+    - value: Birmingham
+      correct: true
+
+- q: Sam has had covid
+  a:
+    - value: 'True'
+      correct: true
+    - value: 'False'
+
+- q: Sam was born on
+  a:
+    - value: 'Monday'
+      correct: true
+    - value: 'Tuesday'
+    - value: 'Wednesday'
+    - value: 'Thursday'
+    - value: 'Friday'
+
+- q: If she chose one word to descibe Gareth it would be...
+  a:
+    - value: Edgy
+    - value: Cool
+    - value: Amazing
+    - value: Sarcastic
+    - value: Ginger
+      correct: true
+    - value: Stoic
+
+- q: Where is she from?
+  a:
+    - value: Solihull
+    - value: Tooting Bec
+    - value: Cleave Prior
+      correct: true
+    - value: Wandsworth Town
+    - value: The Block
+
+- q: Where is here favourite holiday destination?
+  a:
+    - value: Peguera
+      correct: true
+    - value: Austin
+    - value: Reykjavik
+    - value: Madrid
+    - value: Nottingham
+
+- q: How many touches?
+  a:
+    - value: '1'
+    - value: '4'
+    - value: '6'
+      correct: true
+    - value: '10'
+    - value: none
+
+- q: What is Sam saved in Gareth's phone as
+  a:
+    - value: Sam the Ham
+    - value: Sam Touch
+      correct: true
+    - value: Sam Bell
+    - value: Sam Tinder
+    - value: Bam Sell
+    - value: Sam Bing
+
+- q: If Sam was an animal she would be ...
+  a:
+    - value: Platypus
+      correct: true
+    - value: Earthworm
+    - value: Sloth
+    - value: Dog
+    - value: Tapir
+    - value: Rock
+
+- q: Woof woof?
+  a:
+    - value: Bill and Ben
+    - value: Fenton and Bowie
+    - value: Lara and Lyca
+    - value: Tilly and Tasha
+      correct: true
+    - value: Trinket and Kiri
+
+- q: What's her club shirt number?
+  a:
+    - value: '59'
+    - value: '69'
+    - value: '86'
+      correct: true
+    - value: '89'
+    - value: '103'
+
+- q: How many countries has she visited?
+  a:
+    - value: '26'
+    - value: '27'
+    - value: '28'
+    - value: '29'
+      correct: true
+
+- q: What food would she not eat as a child?
+  a:
+    - value: Cheese
+      correct: true
+    - value: Tomatoes
+    - value: Ham
+    - value: Cucumber
+    - value: Mushrooms
+    - value: Chocolate
+
+- q: What was her first car?
+  a:
+    - value: VW Polo
+    - value: Vauhaull Corsa
+      correct: true
+    - value: Citreon Saxo
+    - value: Peugeot 206
+    - value: Fiat Cheeky Chento
+
+- q: Tag Rugby is...
+  a:
+    - value: Shit
+      correct: true
+
+- q: Sam says Gareth's best quality is his...
+  a:
+    - value: Brain
+      correct: true
+    - value: Looks
+      correct: true
+    - value: Penis
+      correct: true
+    - value: Humour
+      correct: true
+    - value: Tan
+
+- q: Sam is ...
+  a:
+    - value: Amazing
+      correct: true
+    - value: The best
+      correct: true
+    - value: A sexy beast
+      correct: true
