@@ -62,7 +62,7 @@
   a:
     - value: Solihull
     - value: Tooting Bec
-    - value: Cleave Prior
+    - value: Cleeve Prior
       correct: true
     - value: Wandsworth Town
     - value: The Block
@@ -157,11 +157,11 @@
 
 - q: Sam says Gareth's best quality is his...
   a:
+    - value: Penis
+      correct: true
     - value: Brain
       correct: true
     - value: Looks
-      correct: true
-    - value: Penis
       correct: true
     - value: Humour
       correct: true
